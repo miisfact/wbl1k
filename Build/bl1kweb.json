@@ -1,0 +1,11 @@
+{
+"companyName": "miisfactory",
+"productName": "ブララヴァ改",
+"dataUrl": "bl1kweb.data.unityweb",
+"asmCodeUrl": "bl1kweb.asm.code.unityweb",
+"asmMemoryUrl": "bl1kweb.asm.memory.unityweb",
+"asmFrameworkUrl": "bl1kweb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
